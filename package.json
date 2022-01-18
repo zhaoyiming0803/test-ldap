@@ -1,0 +1,14 @@
+{
+  "name": "test-ldap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sudo node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ldapjs": "^2.3.1"
+  }
+}
